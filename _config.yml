@@ -21,19 +21,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 水木生花
-github_username:  水木生花
+twitter_username: 水木花开
+github_username:  lightman2
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - no-style-please
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+# exclude:   jekyll-feed
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
