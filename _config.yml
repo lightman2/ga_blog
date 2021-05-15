@@ -28,7 +28,7 @@ github_username:  lightman2
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-shell-theme
+  - no-style-please
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
