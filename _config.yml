@@ -28,12 +28,12 @@ github_username:  lightman2
 markdown: kramdown
 theme: minima
 plugins:
-  - no-style-please
+  - jekyll-shell-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:   jekyll-feed  no-style-please
+# exclude:   jekyll-feed  no-style-please jekyll-shell-theme
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
