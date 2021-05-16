@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2021-05-15 23:00:15 +0800
+categories: jekyll update
+---
+
 VLSI教程
-比较全面，以色列人出品
-www.eng.biu.ac.il/temanad/digital-vlsi-design
+比较全面，以色列人出品temanad
+
