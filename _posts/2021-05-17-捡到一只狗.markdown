@@ -1,3 +1,5 @@
 一只流浪狗
-![image](https://github.com/lightman2/ga_blog/blob/gh-pages/image.png)
+
+![image](https://lightman2.github.io/ga_blog/image.png)
+
 然后跑了。。
