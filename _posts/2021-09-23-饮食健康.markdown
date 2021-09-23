@@ -3,3 +3,6 @@
 早上蔬菜鸡蛋粥，精神很好
 - 老妈在身边
 * 老妈在身边
+
+## zlib搞好，iverilog + vvp + gtkwave 终于可以搞出波形了
+![image](https://lightman2.github.io/ga_blog/mypic.jpg)
